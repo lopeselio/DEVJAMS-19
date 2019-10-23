@@ -1,0 +1,69 @@
+#logo {
+    margin-left: 20px;
+}
+
+#heading {
+    font-weight: bold;
+}
+
+.main-header{
+    background: url(../img/ali-gandomi-Q6HI7klwbY0-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 600px;
+}
+
+.arrow {
+    margin-top: 0;
+    height: auto;
+}
+
+
+.scroll-icon {
+    position: absolute;
+    bottom: 5%;
+    left: 47%;
+    opacity: 0.5;
+}
+
+#navbarscroll.scrolled {
+    background-color: #0099ff !important;
+    transition: background-color 200ms linear;
+  }
+
+.section-follow .fa-4x{
+    margin: 5px 10px;
+}
+
+#card-title {
+    color: #0099ff;
+    font-weight: bolder;
+}
+
+#location, .collection-header, .collection-item {
+
+    background: #0099ff;
+}
+
+#card-panel {
+    background: #0099ff;
+    color: white !important;
+}
+
+
+.gallery {
+    max-width: 100%;
+    height: auto;
+}
+
+#card-info {
+    height: 500px fixed !important;
+}
+
+
+
+
+
